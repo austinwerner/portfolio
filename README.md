@@ -1,2 +1,2 @@
 # portfolio
-Android app showcasing my music, paintings, and graphic designs
+Android app showcasing my music, paintings, photos, and graphic designs
